@@ -6,7 +6,7 @@ from time import sleep, strftime
 import json
 
 
-token = '4691d8f6706204dafcf4410fb911a1e515b2dcfde010bd34940b4e4388499a0f6f1ff452c28d91003cfce'
+token = '4691d8f6706204dafcf4480fb911a1e515b2dcfde010bd34940b4e4388499a0f6f1ff452c28d91123cfce'
 
 
 vk_session = VkApi(token=token)
